@@ -36,6 +36,19 @@
 
 ---
 
+## Цитаты
+
+>Success does not consist in never making mistakes but in never making the same one a second time
+>
+>Бернард Шоу
+
+>When you do something noble and beautiful and nobody noticed, do not be sad. For the sun every morning is a beautiful spectacle and yet most of the audience still sleeps.
+>
+>Джон Леннон
+
+---
+
+
 ## Основные команды в Git:  
 
 * _git add_ - добавляет содержимое рабочего каталога в индекс (staging area) для последующего коммита.
