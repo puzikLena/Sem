@@ -2,9 +2,11 @@
 
 ## Menu
 
-1. Potions
-6. Chips
-2. Code Block
+- [Strange gestures](#strange-gestures)
+  - [Menu](#menu)
+    - [Potions](#potions)
+    - [Chips](#chips)
+    - [Code Block](#code-block)
 
  *Mysterious*  
 
